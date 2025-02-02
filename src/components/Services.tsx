@@ -155,7 +155,7 @@ const services = [
     title: 'Cloud Solutions',
     description:
       'Scalable and secure cloud infrastructure solutions. Modernize your applications and optimize performance with our comprehensive cloud services.',
-    link: '/services/cloud-solutions',
+    link: '#',
     animation: () => (
       <svg className="w-full h-32 mb-4" viewBox="0 0 400 200">
         <defs>
@@ -216,7 +216,7 @@ const services = [
     title: 'Computer Vision',
     description:
       'Advanced computer vision solutions for object detection, image recognition, and visual search. Automate visual tasks and enhance security.',
-    link: '/services/computer-vision',
+    link: '#',
     animation: () => (
       <svg className="w-full h-32 mb-4" viewBox="0 0 400 200">
         <defs>
@@ -283,7 +283,7 @@ const services = [
     title: 'NLP Services',
     description:
       'Natural Language Processing solutions for text analysis, translation, and chatbots. Transform text data into valuable insights.',
-    link: '/services/nlp',
+    link: '#',
     animation: () => (
       <svg className="w-full h-32 mb-4" viewBox="0 0 400 200">
         <defs>
